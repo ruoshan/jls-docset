@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleIdentifier</key>
+    <string>javaspec</string>
+    <key>CFBundleName</key>
+    <string>Java Language Spec</string>
+    <key>DashDocSetKeyword</key>
+    <string>javaspec</string>
+    <key>DashDocSetPluginKeyword</key>
+    <string>javaspec</string>
+    <key>DocSetPlatformFamily</key>
+    <string>javaspec</string>
+    <key>dashIndexFilePath</key>
+    <string>_VERSION_/javase/specs/jls/se_VERSION_/html/index.html</string>
+    <key>isDashDocset</key>
+    <true/>
+    <key>isJavaScriptEnabled</key>
+    <true/>
+</dict>
+</plist>
